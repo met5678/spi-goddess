@@ -1,0 +1,26 @@
+{
+  "name": "spi-goddess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/met5678/spi-goddess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/met5678/spi-goddess/issues"
+  },
+  "homepage": "https://github.com/met5678/spi-goddess#readme",
+  "dependencies": {
+    "ipc-goddess": "^1.0.2",
+    "lodash": "^4.15.0",
+    "nconf": "^0.8.4",
+    "pi-spi": "^1.0.1",
+    "signal-exit": "^3.0.0"
+  }
+}
